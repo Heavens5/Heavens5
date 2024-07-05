@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Heavens5
-- 👀 I’m interested in Python, Web development. Database Programming, Repair and Maintenance
-- 🌱 I’m currently learning Information Technology
+- 👀 I’m interested in Python, Web development. Database Programming, Repair and Maintenance, Photography and video editing, Networking
+- 🌱 I’m currently learning Python, Javascript, Jquery
 - 💞️ I’m looking to collaborate on programmers and The IT Industry
-- 📫 You can reach me out  on mawandaemmanuel51@gmil.com, emmanuelheavens6@gmail.com
-- 😄 Pronouns: ...
+- 📫 You can reach me out  on mawandaemmanuel51@gmil.com, emmanuelheavens6@gmail.com, whatsapp me on 0781545073
+- 😄 Pronouns: ...We are the LEMBEZ
 - ⚡ Fun fact: ...
 
 <!---
